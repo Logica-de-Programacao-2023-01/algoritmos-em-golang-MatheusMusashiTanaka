@@ -20,7 +20,7 @@ func main() {
 	case "1":
 		if IMC <= 18.5 {
 			fmt.Println("Indice de massa corporal abaixo da media")
-		} else if IMC > 18.5 {
+		} else if IMC > 18.5 && IMC < 24.9 {
 			fmt.Println("indice de massa normal")
 		} else if IMC > 24.9 {
 			fmt.Println("Indice de massa corporal acima da media")
@@ -28,7 +28,7 @@ func main() {
 	case "2":
 		if IMC <= 18.5 {
 			fmt.Println("Indice de massa corporal abaixo da media")
-		} else if IMC > 18.5 {
+		} else if IMC > 18.5 && IMC < 24.9 {
 			fmt.Println("indice de massa normal")
 		} else if IMC > 24.9 {
 			fmt.Println("Indice de massa corporal acima da media")
