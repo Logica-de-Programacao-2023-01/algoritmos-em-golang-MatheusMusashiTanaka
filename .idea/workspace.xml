@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -34,7 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "DefaultGoTemplateProperty": "Go File",
+    "DefaultGoTemplateProperty": "Go Application",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -48,27 +49,54 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build Algoritimo 10 seleção.go">
-    <configuration name="go build Algoritimo 10 seleção.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Algoritimo 7 repetição.go">
+    <configuration name="go build Algoritimo 3 repetição.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-MatheusMusashiTanaka" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Algoritimo 10 seleção.go" />
+      <filePath value="$PROJECT_DIR$/Algoritimo 3 repetição.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build Algoritimo 9 seleção.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Algoritimo 4 repetição.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-MatheusMusashiTanaka" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Algoritimo 9 seleção.go" />
+      <filePath value="$PROJECT_DIR$/Algoritimo 4 repetição.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Algoritimo 5 repetição.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-MatheusMusashiTanaka" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritimo 5 repetição.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Algoritimo 6 repetição.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-MatheusMusashiTanaka" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritimo 6 repetição.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Algoritimo 7 repetição.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-MatheusMusashiTanaka" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Algoritimo 7 repetição.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Algoritimo 10 seleção.go" />
-        <item itemvalue="Go Build.go build Algoritimo 9 seleção.go" />
+        <item itemvalue="Go Build.go build Algoritimo 7 repetição.go" />
+        <item itemvalue="Go Build.go build Algoritimo 6 repetição.go" />
+        <item itemvalue="Go Build.go build Algoritimo 5 repetição.go" />
+        <item itemvalue="Go Build.go build Algoritimo 4 repetição.go" />
+        <item itemvalue="Go Build.go build Algoritimo 3 repetição.go" />
       </list>
     </recent_temporary>
   </component>
@@ -79,5 +107,16 @@
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Algoritimo 5 repetição.go</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
